@@ -1,0 +1,103 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+}
+h3{
+    font-size: 20px;
+}
+p{
+
+font-size: 20px;
+color: gray;
+
+}
+.spanig{
+color:orangered;
+font-size: 50px;
+
+}
+.top-half{
+width: 40%;
+float: left;
+margin-left: 7%;
+padding:0% ;
+
+}
+.top-half img{
+    width: 100%;
+}
+.top-link{
+text-decoration: none;
+background-color: red;
+font-size: 20px;
+width: 7px;
+color: seashell;
+padding: 2px;
+border-radius: 5px;
+
+}
+.section-topphoto{
+    background-image: url("photo/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+    
+}
+.middel-section{
+  background-image: url("photo/biography-bg.png");
+  background-repeat: no-repeat;
+  height: 500px;
+  padding-bottom: 400px;
+
+}
+.middel-section img{
+    width: 100%;
+}
+.there-photo{
+   width: 30%;
+   float: left;
+   padding: 10px;
+   margin-left: 20px;
+
+}
+.there-photo img{
+    width: 100%;
+}
+.medel{
+    text-align: center;
+}
+.section-ok{
+    height: 80%;
+    width:100% ;
+    padding-bottom: 100px;
+
+}
+.centaring{
+
+    text-align: center;
+}
+.my-work{
+    background-image: url("photo/footer-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+
+    padding-bottom:200px ;
+    height: 500px;
+}
+.foterside{
+background-color: orangered;
+height:30% ;
+width: 80%;
+border-radius: 10px;
+border-left: 10%;
+padding-top: 20px;
+
+}
+
+#font-color{
+    color: snow;
+}
